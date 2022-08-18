@@ -1,0 +1,8 @@
+D:\kia prjc\tamrin\solv-v1\solv-v1\bin\Debug\solv-v1.exe.config
+D:\kia prjc\tamrin\solv-v1\solv-v1\bin\Debug\solv-v1.exe
+D:\kia prjc\tamrin\solv-v1\solv-v1\bin\Debug\solv-v1.pdb
+D:\kia prjc\tamrin\solv-v1\solv-v1\obj\Debug\solv-v1.csproj.AssemblyReference.cache
+D:\kia prjc\tamrin\solv-v1\solv-v1\obj\Debug\solv-v1.csproj.SuggestedBindingRedirects.cache
+D:\kia prjc\tamrin\solv-v1\solv-v1\obj\Debug\solv-v1.csproj.CoreCompileInputs.cache
+D:\kia prjc\tamrin\solv-v1\solv-v1\obj\Debug\solv-v1.exe
+D:\kia prjc\tamrin\solv-v1\solv-v1\obj\Debug\solv-v1.pdb
